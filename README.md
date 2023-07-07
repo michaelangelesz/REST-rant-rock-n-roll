@@ -2,7 +2,7 @@
 
 REST-Rant2 will be an app where users can review restaurants. 
 
-##README Driven Development
+## README Driven Development
 What this app will include when released:
 
 | Method | Path | Purpose |
