@@ -13,7 +13,7 @@ router.get('/', (req, res) => {
         city: 'Phoenix',
         state: 'AZ',
         cuisines: 'Coffee, Bakery',
-        pic: '/images/dragne-marius-EdzsUFqHbaY-unsplash.jpg'
+        pic: '/images/allison-christine-nKzZTrJeM18-unsplash.jpg'
       }]
       
     res.render('places/index', { places })
